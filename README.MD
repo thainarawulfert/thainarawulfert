@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Thainara Wulfert<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Olá, me chamo Thainara Wulfert<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Estudante de Programação</h3>
 
 
