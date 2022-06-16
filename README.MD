@@ -4,7 +4,7 @@
 <h3 font-size="20" align="center">Estudante de Programação</h3>
 
 
-<h2> Sobre mim </h2>
+## **Sobre Mim**
 
 - 🔭 Hobbies
   
@@ -37,8 +37,8 @@
  </div>
 
 
-## **Rede Sociais!**
+## **Rede Sociais**
 
-<a href="https://www.linkedin.com/in/thainara-wulfert/">
+<a href="https://www.linkedin.com/in/thainara-wulfert/](https://www.linkedin.com/in/thainara-wulfert-4350601a5/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
