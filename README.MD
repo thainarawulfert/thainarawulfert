@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Olá, me chamo Thainara Wulfert<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 <h3 font-size="20" align="center">Estudante de Programação</h3>
 
@@ -53,3 +51,4 @@
                                                                                                                                      
                                                                                                            
 [![thainarawulfert](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=highcontrast)](https://github.com/iuricode/)
+                                                                                                                                    
