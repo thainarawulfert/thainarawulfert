@@ -12,7 +12,7 @@
   <p> Bacharel em Direito 👩‍⚖️ e estudante do Programa Starter Full Stack Web Developer - GrowDev 💻 </p>
   
 - 🧞‍♀️ Experiências profissionais
-  <p> Trabalhos na área juridica e no serviço público.</p>
+  <p> Ux Design e Trabalhos juridicos no serviço público</p>
 
 - 💬 Estudando Atualmente:
    <p>
