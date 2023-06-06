@@ -3,16 +3,10 @@
 
 
 ## **Sobre Mim**
-
-- 🕹️ Hobbies
-  <p>Jogar, Assistir séries, Passar tempo com meu filho Bartolomeu (mãe de pet) e Codar!</p>
-  
   
 - 📚 Formação
   <p> Bacharel em Direito 👩‍⚖️ e estudante do Programa Starter Full Stack Web Developer - GrowDev 💻 </p>
   
-- 🧞‍♀️ Experiências profissionais
-  <p> Ux Design e Trabalhos juridicos no serviço público</p>
 
 - 💬 Estudando Atualmente:
    <p>
